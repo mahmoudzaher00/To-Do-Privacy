@@ -5,6 +5,13 @@ This Privacy Policy describes Our policies and procedures on the collection, use
 
 We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the Free Privacy Policy Generator.
 
+This app to company power maas to send and received tasks between manager and employees.
+The application is limited to users belonging to one company.
+The app is designed for use by a limited group.
+Companies that use this application are companies that contain a large number of employees, and this application facilitates sending and receiving tasks.
+Any company can become a customer and use this app.
+This app is designed for businesses and is not intended for the general public
+
 Interpretation and Definitions
 Interpretation
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
